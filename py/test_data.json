@@ -1,0 +1,19 @@
+{
+  "DEV": {
+    "fingate1":{
+      "address": "jLRdkbLyEwMLKAeGHMh8zfxWQDagPmZEaw",
+      "secret": "ssSHuRBvRt4TeB8eVE8CBRoB8cVAe",
+      "tum1":"8100000005000020170006201800060020000001",
+      "custom_id": "00000005",
+      "sign_key":"47bd6c8a225cbe4c9d5dbbf2f7dd740acc6537d4"
+    },
+    "wallet2":{
+      "address":"jnxxSNnx6yshDKDZUSaxjJi272aREJ3W1R",
+      "secret":"sp5JPhzoZCvbitffHiJ1VfFo2M9gw"
+    },
+    "wallet3":{
+      "address":"jQfhBq2ssuCm7Yi7inGtifi4xafHEW8CYf",
+      "secret":"snarAqwsCAb3bANJi4LCCMtpt2eN2"
+    }
+  }
+}
